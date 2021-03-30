@@ -5,7 +5,7 @@ Final project of **Software Project Management** and **Software Engineering** <b
 
 |Student Id| Name                  | Subject		                    |
 |----------| ----------------------|--------------------------------|
-|18110304  | **Khanh** Lam Quoc    | Software Project Management    |
+|18110304  | **Khanh** Lam     | Software Project Management    |
 |          |                       | Software Engineering           |
 |          |                       | Software Engineering           |
 |          |                       | Software Engineering           |
